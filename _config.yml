@@ -19,7 +19,8 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Bienenbar
-url: "https://bienenbar.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bienen.bar" # the base hostname & protocol for your site, e.g. http://example.com
+description: "Einladung zur Bienenbar"
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
