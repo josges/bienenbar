@@ -6,4 +6,6 @@ layout: default
 ---
 # 2024 ist ein Bienenbarjahr!
 
-Am 12.-14. Juli 2024 machen wir die Bienenbar auf. Es gibt wieder Leckeres, Lautes, Schönes und Flüssiges. Wir freuen uns auf euch!
+Am **12.-14. Juli 2024** machen wir die Bienenbar auf. Es gibt wieder Leckeres, Lautes, Schönes und Flüssiges. Wir freuen uns auf euch!
+
+Habt ihr Fragen? Meldet euch!
